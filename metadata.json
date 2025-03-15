@@ -1,0 +1,12 @@
+{
+    "name": "SupplyTrek",
+    "symbol": "STREK",
+    "description": "Your one-stop tradesman logistics hub",
+    "image": "https://www.supplytrek.com/assets/images/logos/supplytrek.png",
+    "attributes": [
+      {
+        "trait_type": "Item",
+        "value": "SupplyTrek"
+      }
+    ]
+  }
